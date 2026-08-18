@@ -34,7 +34,7 @@
 
   🛠️ **Tecnologias**:
 
-  🌐 HTML5, CSS3
+  🌐 HTML5 | CSS3
   🐍 Python | 🐘 PHP | ⚡ JavaScript
   🛢️ MySQL | 🔥 Firebase
   🚀 Laravel | Vue.js | ☕ Java
