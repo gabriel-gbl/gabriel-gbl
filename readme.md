@@ -7,7 +7,7 @@
 
 👋 Olá! Sou **estudante de Análise e Desenvolvimento de Sistemas** no **IFSP – Campus Jacareí**, com ótimo desempenho acadêmico e uma grande paixão por aprender e evoluir constantemente.
 
-✨ Tenho conhecimentos sólidos em tecnologias como **HTML5, CSS3, Python, PHP, JavaScript, MySQL e Firebase**, além de habilidades interpessoais que me destacam em trabalhos em equipe e projetos colaborativos.
+✨ Tenho conhecimentos sólidos em tecnologias como **HTML5, CSS3, Python, PHP, JavaScript, MySQL, Firebase, Laravel, Vue.js, Java, Tailwind Css e Node.js**, além de habilidades interpessoais que me destacam em trabalhos em equipe e projetos colaborativos.
 
 ---
 
@@ -32,11 +32,14 @@
   🧰 Familiaridade com sistemas e tecnologias de TI  
   📘 Vontade de aprender e evoluir constantemente  
 
-🛠️ **Tecnologias**:
+  🛠️ **Tecnologias**:
 
-  🌐 HTML5, CSS3  
-  🐍 Python | 🐘 PHP | ⚡ JavaScript  
+  🌐 HTML5, CSS3
+  🐍 Python | 🐘 PHP | ⚡ JavaScript
   🛢️ MySQL | 🔥 Firebase
+  🚀 Laravel | Vue.js | ☕ Java
+  🎨 Tailwind CSS | 🟢 Node.js | PGSQL 
+
 
 ---
 
